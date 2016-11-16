@@ -1,0 +1,8 @@
+C:\Users\george\Documents\Visual Studio 2015\Projects\70-483\70-483\bin\Release\70-483.exe.config
+C:\Users\george\Documents\Visual Studio 2015\Projects\70-483\70-483\bin\Release\70-483.exe
+C:\Users\george\Documents\Visual Studio 2015\Projects\70-483\70-483\bin\Release\70-483.pdb
+C:\Users\george\Documents\Visual Studio 2015\Projects\70-483\70-483\obj\Release\_70_483.Form1.resources
+C:\Users\george\Documents\Visual Studio 2015\Projects\70-483\70-483\obj\Release\_70_483.Properties.Resources.resources
+C:\Users\george\Documents\Visual Studio 2015\Projects\70-483\70-483\obj\Release\70-483.csproj.GenerateResource.Cache
+C:\Users\george\Documents\Visual Studio 2015\Projects\70-483\70-483\obj\Release\70-483.exe
+C:\Users\george\Documents\Visual Studio 2015\Projects\70-483\70-483\obj\Release\70-483.pdb

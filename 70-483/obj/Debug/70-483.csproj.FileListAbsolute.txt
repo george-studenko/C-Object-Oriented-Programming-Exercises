@@ -1,0 +1,9 @@
+c:\users\george\documents\visual studio 2015\Projects\70-483\70-483\bin\Debug\70-483.exe.config
+c:\users\george\documents\visual studio 2015\Projects\70-483\70-483\bin\Debug\70-483.exe
+c:\users\george\documents\visual studio 2015\Projects\70-483\70-483\bin\Debug\70-483.pdb
+c:\users\george\documents\visual studio 2015\Projects\70-483\70-483\obj\Debug\70-483.csprojResolveAssemblyReference.cache
+c:\users\george\documents\visual studio 2015\Projects\70-483\70-483\obj\Debug\_70_483.Form1.resources
+c:\users\george\documents\visual studio 2015\Projects\70-483\70-483\obj\Debug\_70_483.Properties.Resources.resources
+c:\users\george\documents\visual studio 2015\Projects\70-483\70-483\obj\Debug\70-483.csproj.GenerateResource.Cache
+c:\users\george\documents\visual studio 2015\Projects\70-483\70-483\obj\Debug\70-483.exe
+c:\users\george\documents\visual studio 2015\Projects\70-483\70-483\obj\Debug\70-483.pdb
